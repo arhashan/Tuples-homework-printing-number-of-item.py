@@ -1,1 +1,1 @@
-
+fruits = ("apple" , "banana" , "cherry")
